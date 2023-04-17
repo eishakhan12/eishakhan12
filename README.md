@@ -1,3 +1,4 @@
+![logo](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)
 <h1 align="center">Hi 👋, I'm Eisha</h1>
 <h3 align="center">Undergraduate in Computer Science</h3>
 <img aling="right" alt="coding" width="390" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
